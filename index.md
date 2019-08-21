@@ -1,3 +1,6 @@
-### This is a test page!
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-{% gist fc5f473de96d51e07ac5c824c83dd7e4 %}
+layout: home
+---
