@@ -25,7 +25,7 @@ twitter_username: 3r7c
 github_username:  coxep
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
